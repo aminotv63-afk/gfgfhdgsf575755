@@ -1,0 +1,6 @@
+{
+  "name": "السلطان عاشور العاشر 3D",
+  "description": "لعبة مغامرات ثلاثية الأبعاد مستوحاة من قصة السلطان عاشور العاشر والمملكة العاشورية بتقنيات 3D وعالم مفتوح.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
